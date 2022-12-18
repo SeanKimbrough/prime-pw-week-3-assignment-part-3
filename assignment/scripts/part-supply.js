@@ -37,6 +37,19 @@ console.log( ' added 25 to the end of the array' , supplyChanges);
 //    - if the value is 0, log 'No Change.'
 //    - if the value is negative, format the log as 'Removed x parts.' 
 console.log('6. Showing supplyChanges...');
+let x = supplyChanges;
+
+for (let x=0; x>0; x++){
+    console.log(' Added x parts');
+} // end added x parts
+for in (let x=== '0'; x++ ){
+    console.log('no change');
+} // for no change 
+for (let x=0, x<=0; x--);{
+console.log(' removed x parts');
+} // for removed x parts
+
+
 
 
 // STRETCH GOALS
