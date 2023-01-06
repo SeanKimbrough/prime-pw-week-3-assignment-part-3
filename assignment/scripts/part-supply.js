@@ -93,3 +93,7 @@ let boxesFilled = 0;
         warehouseParts++;
     }
     console.log(`Filling boxes: ${boxesFilled}`);
+
+    // gave up on this last one I couldn;t figure out how to get it to run until all boxes
+    // and show leftover parts
+    
